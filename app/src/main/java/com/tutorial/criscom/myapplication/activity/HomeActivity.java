@@ -27,6 +27,7 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.v("Latihan", "Hari kedua latihan git - Jonathan");
+               Log.v("latihan","hari kedua pelatihan git - fauzan");
                 Log.v("Latihan", "Hari kedua pelatihan git - Alvarisi");
             }
         };
@@ -37,6 +38,7 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.v("tokopedia", "Git sangat seru - Jonathan");
+                Log.v("tokopedia","git sangat seru - fauzan");
                 Log.v("Tokopedia", "Git sangat seru - Alvarisi");
             }
         };
