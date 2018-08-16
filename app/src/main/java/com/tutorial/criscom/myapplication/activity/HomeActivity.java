@@ -29,6 +29,7 @@ public class HomeActivity extends AppCompatActivity {
                 //Intent intent = new Intent(HomeActivity.this, ManCatalogActivity.class);
                 //startActivity(intent);
                 Log.v("Latihan", "Hari kedua pelatihan - Jean");
+                Log.v("Latihan", "Hari kedua pelatihan git - Alvarisi");
             }
         };
     }
@@ -40,6 +41,7 @@ public class HomeActivity extends AppCompatActivity {
                 //Intent intent = new Intent(HomeActivity.this, WomanCatalogActivity.class);
                 //startActivity(intent);
                 Log.v("Tokopedia", "Git sangat seru beuddh - Jean");
+                Log.v("Tokopedia", "Git sangat seru - Alvarisi");
             }
         };
     }
