@@ -3,7 +3,6 @@ package com.tutorial.criscom.myapplication.activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -27,6 +26,7 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                Log.v("latihan","hari kedua pelatihan git - fauzan");
+                Log.v("Latihan", "Hari kedua pelatihan git - Alvarisi");
             }
         };
     }
@@ -36,6 +36,7 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.v("tokopedia","git sangat seru - fauzan");
+                Log.v("Tokopedia", "Git sangat seru - Alvarisi");
             }
         };
     }
